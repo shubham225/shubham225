@@ -19,31 +19,19 @@
 
 ## ⚙️ Skills
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center">
-        <!-- Backend -->
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,javascript,typescript" height="45" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <!-- Frontend -->
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,materialui" height="45" />
-        <img src="./shadcn-logo.svg" alt="Shadcn UI" height="45" style="border-radius:12px;"/>
-        <img src="./ms-ssrs-icon.svg" alt="Microsoft SSRS" height="45" style="border-radius:12px;"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <!-- Other -->
-        <img src="https://skillicons.dev/icons?i=git,linux,powershell,bash,vscode,idea" height="45" />
-        <img src="./infor-ln-logo.svg" alt="Infor LN ERP" height="45" style="border-radius:12px;"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- Backend -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,javascript,typescript" height="45" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,materialui" height="45" />
+  <img src="./shadcn-logo.svg" alt="Shadcn UI" height="45" style="border-radius:12px;"/>
+  <img src="./ms-ssrs-icon.svg" alt="Microsoft SSRS" height="45" style="border-radius:12px;"/>
+</p>
+
+<!-- Other -->
+<p align="center">
+  <img src="./infor-ln-logo.svg" alt="Infor LN ERP" height="45" style="border-radius:12px;"/>
+  <img src="https://skillicons.dev/icons?i=git,linux,powershell,bash,vscode,idea" height="45" />
+</p>
 
 ## 📊 GitHub Stats
 
