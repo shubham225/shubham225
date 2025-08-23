@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Shubham Shinde</h1>
+<h3 align="center">Senior Software Engineer I • Full-Stack Developer</h3>
 
-<!--
-**shubham225/shubham225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-shinde-9a024a124">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:shubhamshinde225@mail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/shubham225">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building scalable apps across backend, frontend, and ERP. Always learning, shipping, and improving.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Skills
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <!-- Backend -->
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,javascript,typescript" height="45" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <!-- Frontend -->
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,materialui" height="45" />
+        <img src="./shadcn-logo.svg" alt="Shadcn UI" height="45" style="border-radius:12px;"/>
+        <img src="./ms-ssrs-icon.svg" alt="Microsoft SSRS" height="45" style="border-radius:12px;"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <!-- Other -->
+        <img src="https://skillicons.dev/icons?i=git,linux,powershell,bash,vscode,idea" height="45" />
+        <img src="./infor-ln-logo.svg" alt="Infor LN ERP" height="45" style="border-radius:12px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham225&theme=radical" alt="GitHub Streak" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham225&layout=compact&theme=radical" alt="Most Used Languages" height="185"/>
+</p>
