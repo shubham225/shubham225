@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,javascript,typescript" height="45" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,css,materialui" height="45" />
   <img src="./shadcn-logo.svg" alt="Shadcn UI" height="45" style="border-radius:12px;"/>
-  <img src="./ms-ssrs-icon.svg" alt="Microsoft SSRS" height="45" style="border-radius:12px;"/>
+  <img src="./ms-ssrs-logo.svg" alt="Microsoft SSRS" height="45" style="border-radius:12px;"/>
 </p>
 
 <!-- Other -->
