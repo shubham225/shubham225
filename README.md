@@ -2,15 +2,9 @@
 <h3 align="center">Senior Software Engineer I • Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-shinde-9a024a124">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:shubhamshinde225@mail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/shubham225">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/shubham-shinde-9a024a124"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubhamshinde225@mail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/shubham225"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <p align="center">
